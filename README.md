@@ -1,4 +1,4 @@
-## Welcome to Nick's Contact Portal Page
+## Welcome to Nick's Contact Portal
 
 This space serves as a landing-page for anyone in need of contacting me.
 
